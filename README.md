@@ -20,7 +20,7 @@ cd ios
 
 bundle install
 
-bundle exec pod instal
+bundle exec pod install
 ```
 
 ## Step 2: Start the Metro Server
